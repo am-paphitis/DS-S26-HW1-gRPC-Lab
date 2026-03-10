@@ -130,7 +130,7 @@ For implementation details [see the protocol definition.](telemetry_lab/communic
 ---
 
 ## 6.1 Ingestion Service (Client Streaming)
-See also [the protocol definition.](communication-protocol.md)
+See also [the protocol definition.](telemetry_lab/communication-protocol.md)
 
 ```proto
 service IngestService {

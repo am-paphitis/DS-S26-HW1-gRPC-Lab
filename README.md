@@ -121,7 +121,7 @@ proto/telemetry.proto
 ```
 
 Use **exactly the names and fields as shown in the communication protocol**.
-For implementation details [see the protocol definition.](communication-protocol.md)
+For implementation details [see the protocol definition.](telemetry_lab/communication-protocol.md)
 
 ---
 
